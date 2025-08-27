@@ -1,0 +1,275 @@
+{
+  "hero": {
+    "stat": [
+      {
+        "label": "Members",
+        "value": "20K+"
+      },
+      {
+        "label": "Zonal Hq",
+        "value": "40"
+      },
+      {
+        "label": "Parishes",
+        "value": "200"
+      }
+    ]
+  },
+  "mainLibrary": {
+    "tabList": [
+      {
+        "label": "All"
+      },
+      {
+        "label": "Podcast",
+        "id": "podcast"
+      },
+      {
+        "label": "Online Giving",
+        "id": "online-giving"
+      },
+      {
+        "label": "Programs",
+        "id": "program"
+      }
+    ],
+    "data": [
+      {
+        "label": "online-giving",
+        "title": "Payment of First Fruit: Secret of Overwhelming blessing",
+        "actions": [
+          {
+            "label": "Pay First Fruit Now",
+            "outlinedBtn": true
+          },
+          {
+            "label": "Learn More"
+          }
+        ]
+      },
+      {
+        "label": "podcast",
+        "title": "Pastor E.A. Adeboye's Podcasts",
+        "desc": "Click Here to Listen to the Latest Sermons From Daddy G.O on all digital Platforms and be blessed in Jesus Name",
+        "actions": [
+          {
+            "label": "Listen"
+          }
+        ]
+      },
+      {
+        "label": "program",
+        "title": "House Fellowship Leadership Program",
+        "desc": "Register for the House Fellowship Leadership Program which is now a condition for ordination.",
+        "actions": [
+          {
+            "label": "Register"
+          }
+        ]
+      },
+      {
+        "label": "article",
+        "title": "Coastline Worship Centre",
+        "desc": "The RCCG COASTLINE WORSHIP CENTRE will consist of a tower with 17 floors, a multilevel car pack and a jetty with a capacity to dock 16 boats and a helipad.",
+        "actions": [
+          {
+            "label": "Read More"
+          }
+        ]
+      },
+      {
+        "label": "program",
+        "title": "RCCG CSR",
+        "desc": "To find out more about the Christian Social Responsibility of the RCCG through its foundation and to be part of what God is doing, click the button below.",
+        "actions": [
+          {
+            "label": "Click Here"
+          }
+        ]
+      },
+      {
+        "label": "online-giving",
+        "title": "Online Giving",
+        "desc": "All forms of giving to the mission be it Covenant Partners, Nehemiah Builders, Tithe & Offering can be made via a click of the button below.",
+        "actions": [
+          {
+            "label": "Pay Now"
+          }
+        ]
+      }
+    ]
+  },
+  "surrender": {
+    "data": [
+      {
+        "title": "Acknowledge all your sins Acts 2:36 - 38",
+        "content": "Therefore let all the house of Israel know assuredly, that God hath made the same Jesus, whom ye have crucified, both Lord and Christ. 37 Now when they heard this, they were pricked in their heart, and said unto Peter and to the rest of the apostles, Men and brethren, what shall we do? 38 Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost."
+      },
+      {
+        "title": "Confess those sins. Galatians 5:19 - 21",
+        "content": "Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness, 20 Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies, 21 Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God."
+      },
+      {
+        "title": "Ask for forgiveness of sin . I John 1:9",
+        "content": "If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness."
+      },
+      {
+        "title": "Repent of those sins. Act 3:19",
+        "content": "Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord"
+      },
+      {
+        "title": "Forsake all your old ways and sinful habit Luke 14: 33",
+        "content": "So likewise, whosoever he be of you that forsaketh not all that he hath, he cannot be my disciple."
+      },
+      {
+        "title": "Join a Bible believing Church around. Hebrew 10:25",
+        "content": "Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching."
+      }
+    ]
+  },
+  "findParish": {
+    "data": [
+      {
+        "name": "Open Heaven Mega Zone",
+        "pic": "Pst Felix Adeyinka",
+        "address": "10, First Apex Road, off Alaso Bus stop, Amikanle, Alagbado, Lagos State.",
+        "socials": [
+          {
+            "id": "instagram",
+            "link": ""
+          },
+          {
+            "id": "facebook",
+            "link": ""
+          },
+          {
+            "id": "social_x",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "name": "Open Heaven Mega Zone",
+        "pic": "Pst Felix Adeyinka",
+        "address": "10, First Apex Road, off Alaso Bus stop, Amikanle, Alagbado, Lagos State.",
+        "socials": [
+          {
+            "id": "instagram",
+            "link": ""
+          },
+          {
+            "id": "facebook",
+            "link": ""
+          },
+          {
+            "id": "social_x",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "name": "Open Heaven Mega Zone",
+        "pic": "Pst Felix Adeyinka",
+        "address": "10, First Apex Road, off Alaso Bus stop, Amikanle, Alagbado, Lagos State.",
+        "socials": [
+          {
+            "id": "instagram",
+            "link": ""
+          },
+          {
+            "id": "facebook",
+            "link": ""
+          },
+          {
+            "id": "social_x",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "links": [
+      {
+        "header": "CONNECT",
+        "data": [
+          {
+            "label": "Become a member",
+            "link": ""
+          },
+          {
+            "label": "Prayer Request",
+            "link": ""
+          },
+          {
+            "label": "First Timers",
+            "link": ""
+          },
+          {
+            "label": "Second Timers",
+            "link": ""
+          },
+          {
+            "label": "Online Community",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "header": "MINISTRIES",
+        "data": [
+          {
+            "label": "Breathrough Evangelism Teams",
+            "link": ""
+          },
+          {
+            "label": "Breakthrough Teens",
+            "link": ""
+          },
+          {
+            "label": "Breakthrough Kids",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "header": "RESOURCES",
+        "data": [
+          {
+            "label": "Membership Classes",
+            "link": ""
+          },
+          {
+            "label": "Counselling",
+            "link": ""
+          },
+          {
+            "label": "Pre Marital Counselling",
+            "link": ""
+          },
+          {
+            "label": "Post Maital Counselling",
+            "link": ""
+          },
+          {
+            "label": "Welfare Request",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "header": "MEDIA",
+        "data": [
+          {
+            "label": "Watch Online",
+            "link": ""
+          },
+          {
+            "label": "Sermons",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  }
+}

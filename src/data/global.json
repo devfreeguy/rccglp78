@@ -1,0 +1,41 @@
+{
+  "publicNav": [
+    {
+      "label": "Home",
+      "destination": "/"
+    },
+    {
+      "label": "Who Are We",
+      "destination": "/who-are-we"
+    },
+    {
+      "label": "Online Giving",
+      "destination": "/online-giving"
+    },
+    {
+      "label": "Media Resources",
+      "destination": "/media-resources"
+    },
+    {
+      "label": "Prayer Request",
+      "destination": "/prayer-request"
+    }
+  ],
+  "socialMedia": [
+    {
+      "iconName": "instagram",
+      "link": "",
+      "label": "Instagram"
+    },
+    {
+      "iconName": "facebook",
+      "link": "",
+      "label": "Facebook"
+    },
+    {
+      "iconName": "social_x",
+      "link": "",
+      "label": "X(Twitter)"
+    }
+  ]
+}

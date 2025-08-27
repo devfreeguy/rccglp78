@@ -1,0 +1,95 @@
+@import "tailwindcss";
+@plugin "daisyui";
+@plugin "daisyui/theme" {
+  name: "rccglp78";
+  default: true;
+  prefersdark: false;
+  color-scheme: "light";
+  --color-base-100: oklch(98% 0.003 247.858);
+  --color-base-200: oklch(0.9579 0.0029 204.54);
+  --color-base-300: #f0f1f3;
+  --color-base-content: oklch(14% 0.005 285.823);
+
+  --color-primary: oklch(0.2945 0.1419 282.58);
+  --color-primary-content: #fff;
+  --color-secondary: oklch(0.5722 0.2148 28.85);
+  --color-secondary-content: oklch(98% 0.026 102.212);
+  --color-accent: oklch(0.5764 0.16138 149.3162);
+  --color-accent-content: oklch(96% 0.018 272.314);
+  --color-neutral: #282b30;
+  --color-neutral-content: oklch(98% 0 0);
+  --color-info: oklch(78% 0.154 211.53);
+  --color-info-content: oklch(30% 0.056 229.695);
+  --color-success: oklch(84% 0.238 128.85);
+  --color-success-content: oklch(27% 0.072 132.109);
+  --color-warning: oklch(82% 0.189 84.429);
+  --color-warning-content: oklch(27% 0.077 45.635);
+  --color-error: oklch(70% 0.191 22.216);
+  --color-error-content: oklch(25% 0.092 26.042);
+
+  --radius-selector: 2rem;
+  --radius-field: 2rem;
+  --radius-box: 2rem;
+  --size-selector: 0.25rem;
+  --size-field: 0.25rem;
+  --border: 1px;
+  --depth: 0;
+  --noise: 0;
+}
+
+@theme {
+  /* Colors */
+  --color-youtube: #f04438;
+  --color-nav-bg: #09171f;
+  --color-gray-200: #b9bdc7;
+  --color-main-orange: #f26b0f;
+
+  /* Label color */
+  --color-label-yellow: #d7ab07;
+  --color-label-green: #12b76a;
+  --color-label-blue: #2166b2;
+  --color-label-red: #f04438;
+
+  /* Background */
+  --color-picp-bg: #213e1c;
+  --color-apostle-stephen-bg: #102e50;
+  --color-find-parish-bg: #20115b;
+  --color-footer-bg: #da251d;
+
+  /* Fonts */
+  --font-jakarta-sans: "Plus Jakarta Sans", sans-serif;
+}
+
+@layer base {
+  *,
+  pre {
+    font-family: var(--font-jakarta-sans);
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+
+  html {
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE and old Edge */
+    background-color: var(--color-nav-bg);
+  }
+
+  html::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, and Opera */
+  }
+
+  body {
+    overflow-x: hidden;
+  }
+}
+
+@layer utilities {
+  .hide-scrollbar {
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE and old Edge */
+  }
+
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera */
+  }
+}
